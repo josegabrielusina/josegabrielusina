@@ -12,7 +12,7 @@ I hold a **Bachelor's in Business Intelligence** from Tecnológico de Monterrey.
 ## 💻 Technical Skills  
 - **Languages**: R, Python, SQL  
 - **Tools**: Tableau, Power BI  
-- **Specializations**: Data Mining, Machine Learning, Spatial Data Analysis  
+- **Specializations**: Data Mining, Machine Learning, Spatial Data Analysis, Data Visualization  
 
 ## 🌟 Notable Experience  
 - **Community Contribution**: Active participation in CAIINO, applying data analytics to real-world challenges.  
